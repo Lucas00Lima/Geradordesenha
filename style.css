@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #18181b70;
+    background-image: linear-gradient(to top, black, black, gray, white);
     width: 100%;
     height: 100vh;
     display: flex;
